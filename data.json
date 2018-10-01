@@ -1,0 +1,50 @@
+{
+	"baiscs":{
+		"name":"VANDANA",
+		"photo":"590.jpg",
+		"email":"vandana@gmail.com",
+		"moblile no":"987422310",
+		"Address":"SVIT COLLEGE"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B.Tech",
+			"institute":"SVIT,Anantapur",
+			"data":["2016-20","75%"]
+		},
+		{
+			"degree":"intermediate",
+			"institute":"sss College",
+			"data":["2014-15","88%"]
+		},
+		{
+			"degree":"s.s.c",
+			"institute":" SHigh School",
+			"data":["2014","80%"]
+		}
+	],
+	"skills":[
+		{
+"sname":"languages",
+"sdata":["C","C++","Java"]
+		},
+
+			{
+"sname":"databases",
+"sdata":["Oracle","MySql","PDO"]
+
+		},
+		{
+			"sname":"Wed Technologies",
+"sdata":["HTML","XML","css","PHP","JavaScript"]
+},
+{
+
+			"sname":"Operting System",
+"sdata":["Window","Lineux","Unix","PHP"]
+}
+	]
+}
